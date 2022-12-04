@@ -1,11 +1,5 @@
 ![image](https://user-images.githubusercontent.com/3481514/145904252-92e3dc1e-591f-410f-88a1-b4250f4ba6f2.png)
 
-# getting started
-
-```
-expo init --template expo-template-storybook AwesomeStorybook
-```
-
 # Ondevice
 
 ```
@@ -33,3 +27,11 @@ Note that this is only necessary for when you add or remove a story file.
 ```
 yarn storybook
 ```
+
+# server
+
+```
+yarn start-server
+```
+
+Then refresh the app on the device
